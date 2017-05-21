@@ -1,0 +1,25 @@
+Astrophysics and cosmology are rich with data. The advent of wide-area
+digital cameras on large aperture telescopes has led to ever more ambitious
+surveys of the sky. Data volumes of entire surveys a decade ago can now be
+acquired in a single night and real-time analysis is often desired. Thus, modern
+astronomy requires big data know-how, in particular it demands highly
+efficient machine learning and image analysis algorithms. But scalability
+is not the only challenge: Astronomy applications touch several current machine
+learning research questions, such as learning from biased data and dealing
+with label and measurement noise. We argue that this makes astronomy
+a great domain for computer science research, as it pushes the boundaries of
+data analysis. In the following, we will present this exciting application area
+for data scientists. We will focus on exemplary results, discuss main challenges,
+and highlight some recent methodological advancements in machine
+learning and image analysis triggered by astronomical applications.
+
+Read more:
+https://arxiv.org/pdf/1704.04650.pdf
+
+Comments
+1. Andrii Kozynets (21.05.2017)
+    I think that astrophysics and cosmology are very important subjects for our life.
+    These sciences push the boundaries of human knowledge.
+2. Moderator
+    The article was checked with spellchecker (https://www.jspell.com/public-spell-checker.html).
+    No mistakes were found.
